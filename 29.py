@@ -1,3 +1,3 @@
-c=int(input())
+p=int(input())
 n=c
-print(n//60,c%60)
+print(n//60,p%60)

@@ -1,0 +1,5 @@
+b,n=map(int,input().split())
+f,g=map(int,input().split())
+d=abs(b-f)
+m=abs(n-g)
+print(d,m)
